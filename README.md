@@ -10,6 +10,9 @@
 > A practical demonstration of MVC, Repository, Observer, and Façade design patterns in a Node.js + Express REST API.
 
 ---
+👥 **Made by**  
+[@d4xaris](https://github.com/d4xaris) · [@Kuzemskyi-Maksym](https://github.com/Kuzemskyi-Maksym) 
+---
 
 ## Patterns demonstrated
 
@@ -32,3 +35,4 @@ npm run dev
 ## Tech stack
 - Node.js
 - Express 5
+
