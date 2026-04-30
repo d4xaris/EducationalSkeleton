@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <sub>👥 <b>Made by</b> <a href="https://github.com/d4xaris">@d4xaris</a> · <a href="https://github.com/Kuzemskyi-Maksym">@Kuzemskyi-Maksym</a></sub>
+  👥 <b>Made by</b> <a href="https://github.com/d4xaris">@d4xaris</a> · <a href="https://github.com/Kuzemskyi-Maksym">@Kuzemskyi-Maksym</a>
 </p>
 
 ---
